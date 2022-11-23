@@ -8,8 +8,8 @@ My primary career goal is to improve as a developer with each contribution. I ob
 Feel free to reach out to me at niejiheng@gmail.com or through my LinkedIn linked below.
 
 <div style="display: flex; flex-direction: row;">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JihengNie&show_icons=true&locale=en&layout=compact&theme=dark" alt="JihengNie"/>
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=JihengNie&theme=dark&count_private=true&hide=stars,contribs" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JihengNie&show_icons=true&locale=en&layout=compact&theme=dark" alt="JihengNie"/>
 </div>
 
 
