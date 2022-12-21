@@ -6,7 +6,11 @@
 ```javascript
   export default function SoftwareEngineer('Jiheng Nie') {
     return {
-      <p> Hello world! I am a software engineer devoted to imporoving my craft. I obtained my Masters in Mathematics degree from California State Polytechnic University, Pomona at the beginning of 2021 and recently graduated from an accelerated full-stack web development program, LearningFuze. Coding to me is just like writing a proof and I aim to prove new and progressively better web applications here! </p>
+      <p> Hello world! I am a software engineer devoted to imporoving my craft.
+      I obtained my Masters in Mathematics degree from California State Polytechnic University, 
+      Pomona at the beginning of 2021 and recently graduated from an accelerated full-stack web development 
+      program, LearningFuze. Coding to me is just like writing a proof and I aim to prove new and progressively 
+      better web applications here! </p>
     }
   }
 ```
