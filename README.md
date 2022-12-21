@@ -3,9 +3,13 @@
 
 ## About Me
 
-My primary career goal is to improve as a developer with each contribution. I obtained my Masters in Mathematics degree from California State Polytechnic University, Pomona at the beginning of 2021 and recently graduated from an accelerated full-stack web development program, LearningFuze. Coding is just like writing a proof and I aim to prove new and progressively better web applications here!
-
-Feel free to reach out to me at niejiheng@gmail.com or through my LinkedIn linked below.
+```javascript
+  export default function SoftwareEngineer('Jiheng Nie') {
+    return {
+      <p> Hello world! I am a software engineer devoted to imporoving my craft. I obtained my Masters in Mathematics degree from California State Polytechnic University, Pomona at the beginning of 2021 and recently graduated from an accelerated full-stack web development program, LearningFuze. Coding to me is just like writing a proof and I aim to prove new and progressively better web applications here! </p>
+    }
+  }
+```
 
 <div style="display: flex; flex-direction: row;">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JihengNie&show_icons=true&locale=en&layout=compact&theme=dark" alt="JihengNie"/>
